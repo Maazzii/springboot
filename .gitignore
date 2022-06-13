@@ -27,9 +27,3 @@ application-oauth.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-*.html
-build/test-results/test/TEST-com.example.project.springboot.domain.posts.PostsRepositoryTest.xml
-build/test-results/test/TEST-com.example.project.springboot.web.dto.HelloResponseDtoTest.xml
-build/test-results/test/TEST-com.example.project.springboot.web.HelloControllerTest.xml
-build/test-results/test/TEST-com.example.project.springboot.web.PostsApiControllerTest.xml
-/build/
