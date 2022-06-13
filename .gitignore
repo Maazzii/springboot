@@ -32,3 +32,4 @@ build/test-results/test/TEST-com.example.project.springboot.domain.posts.PostsRe
 build/test-results/test/TEST-com.example.project.springboot.web.dto.HelloResponseDtoTest.xml
 build/test-results/test/TEST-com.example.project.springboot.web.HelloControllerTest.xml
 build/test-results/test/TEST-com.example.project.springboot.web.PostsApiControllerTest.xml
+/build/
