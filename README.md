@@ -9,4 +9,4 @@ springboot, JPA, AWS EC2, S3, CodeDeploy, travis⋯.<br>
 travis가 설치되어 있어 GitHub에 변경 내용을 Push하면 자동으로 빌드되고,<br>
 AWS CodeDeploy를 통해 EC2에 자동으로 배포까지 완료된다.<br>
 
-[웹 페이지 링크](http://ec2-15-165-87-43.ap-northeast-2.compute.amazonaws.com/)
+<a href="http://ec2-15-165-87-43.ap-northeast-2.compute.amazonaws.com/" target="_blank">웹 페이지 링크</a>
